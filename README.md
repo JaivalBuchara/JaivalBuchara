@@ -32,8 +32,6 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
-
 - 💬 Ask me about **Java, C++,  and MERN Full Stack**
 
 - 📫 How to reach me **jaivalbuchara20@gmail.com**
@@ -55,7 +53,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=java,nodejsfastapi,express,nestjs" />
   </a>
 </p>
 
@@ -124,6 +122,7 @@
 
 ![JaivalBuchara's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JaivalBuchara&custom_title=Jaival's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
