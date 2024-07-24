@@ -30,9 +30,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently working on **Web Development**
 
-- 💬 Ask me about **Java, C++,  and MERN Full Stack**
+- 💬 Ask me about **C++,Java and MERN Full Stack**
 
 - 📫 How to reach me **jaivalbuchara20@gmail.com**
 
@@ -53,7 +53,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejsfastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,fastapi,express,nestjs" />
   </a>
 </p>
 
@@ -108,7 +108,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaivalBuchara\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Jaival's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaivalBuchara\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JaivalBuchara&theme=midnight-purple)](https://git.io/streak-stats)
 
